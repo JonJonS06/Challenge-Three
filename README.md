@@ -39,5 +39,8 @@ Below are a series of screenshots that will walk you through the application fun
 ![image](https://user-images.githubusercontent.com/124073266/230486417-c1badf7a-d6d4-4f18-a5a3-14d326694bea.png)
 ![image](https://user-images.githubusercontent.com/124073266/230486482-b9bf117d-3ed7-4a34-853d-d9466d3c3748.png)
 ![image](https://user-images.githubusercontent.com/124073266/230486582-4a4223f8-f68b-46b8-a8a8-0a26f2040a4b.png)
-![image](https://user-images.githubusercontent.com/124073266/230487131-8f418270-5328-4b93-8793-f51674d3bf35.png)
+![image](https://user-images.githubusercontent.com/124073266/230487374-3c9cef08-2030-4924-a930-7ca114177277.png)
+![image](https://user-images.githubusercontent.com/124073266/230487509-e6c56b7c-1b23-4604-9c41-55338ccda514.png)
+
+I hope you enjoy my creation and thanks for visiting.
 

@@ -32,9 +32,12 @@ Step Six: Would you like to use Lowercase Characters?
 Step Seven: Congratulations!! You just created your very on random password based on your personal preferences.
 
 
-Below is a screenshot of the application:
+Below are a series of screenshots that will walk you through the application functionality:
 
 ![image](https://user-images.githubusercontent.com/124073266/230485939-77427344-0900-43c9-918e-a3aa08129a85.png)
-
-
+![image](https://user-images.githubusercontent.com/124073266/230486354-dee1170f-384c-4866-99c8-23fd3670d61b.png)
+![image](https://user-images.githubusercontent.com/124073266/230486417-c1badf7a-d6d4-4f18-a5a3-14d326694bea.png)
+![image](https://user-images.githubusercontent.com/124073266/230486482-b9bf117d-3ed7-4a34-853d-d9466d3c3748.png)
+![image](https://user-images.githubusercontent.com/124073266/230486582-4a4223f8-f68b-46b8-a8a8-0a26f2040a4b.png)
+![image](https://user-images.githubusercontent.com/124073266/230487131-8f418270-5328-4b93-8793-f51674d3bf35.png)
 

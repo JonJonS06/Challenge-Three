@@ -49,5 +49,5 @@ I hope you enjoy my creation and thanks for visiting.
 
 Links to deloyed application:
 
-and Github repo: 
+and Github repo: https://github.com/JonJonS06/Challenge-Three.git
 

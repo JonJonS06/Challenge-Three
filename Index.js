@@ -16,3 +16,7 @@ generateBtn.addEventListener("click", writePassword);
 
 // Will be using an array method!!
 // var finalPAssword = ('B', 'a');
+var number = ["0123456789"];
+var specialChar = ["!%&,*+-./<>?~"];
+var alphaLower = ["abcdefghijklmnopqrstuvwxyz"];
+var alphaUpper = ["ABCDEFGHIJKLMNOPQRSTUVWXYZ"];
